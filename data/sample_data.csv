@@ -1,0 +1,4 @@
+product_id,price,quantity,transaction_date
+P001,25.99,2,2024-01-01
+P002,15.5,3,2024-01-01
+P003,100.0,1,2024-01-02
